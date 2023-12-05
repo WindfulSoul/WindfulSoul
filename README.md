@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WindfulSoul
 - 👀 I’m interested in ui/ux design and software development
-- 🌱 I’m currently learning react.js redux node.js restful api, ejs
+- 🌱 I’m currently learning javascript, React.Js, and PHP
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me windfulsoul@gmail.com
 
