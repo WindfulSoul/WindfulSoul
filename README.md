@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WindfulSoul
 - 👀 I’m interested in ui/ux design and software development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning React.Js & Typescript & Bootstrap & Tailwind CSS & Next.Js
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me windfulsoul@gmail.com
 
