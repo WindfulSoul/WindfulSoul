@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WindfulSoul
-- 👀 I’m interested in ui/ux design and software development
+- 👀 I’m interested in UI/UX Design and Frontend Development
 - 🌱 I’m currently learning React.Js & Typescript & Bootstrap & Tailwind CSS & Next.Js
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me windfulsoul@gmail.com
